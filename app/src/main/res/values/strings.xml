@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Trilhas Nova Iguaçu</string>
+
+    <string name="title_activity_web_view">Trilhas NI</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
